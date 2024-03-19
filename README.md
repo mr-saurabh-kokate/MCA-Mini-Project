@@ -1,3 +1,3 @@
-# MCA-Mini-Project
+# Univerity Admission Website
 <br>
 Author - Saurabh Kokate
